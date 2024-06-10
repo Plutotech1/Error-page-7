@@ -1,7 +1,7 @@
 <div align="center">
 <header>
     <h1 align="center">Pluto Tech Hub</h1>
-    <h2>Error Page</h2>
+    <h2>Error 404 Page</h2>
 </header>
 <br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="https://github.com/Plutotech1/Pink-snow--leap-game/blob/main/IMG_4910.jpeg" width="49%">
+        <img src="https://github.com/Plutotech1/Error-page-7/blob/main/Pluto%20Tech%20IMG.PNG" width="99%">
     </div>
 </div>
 <br /><br />
